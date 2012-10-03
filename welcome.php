@@ -1,5 +1,5 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
-
+//just added a few comment
 class Welcome extends CI_Controller {
 
     
