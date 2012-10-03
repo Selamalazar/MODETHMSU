@@ -1,7 +1,7 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
-
+//yet another change.
 class Welcome extends CI_Controller {
-
+//yet another change in the inside of the controller.
     
     public function __construct()
     {
